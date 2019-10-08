@@ -202,7 +202,7 @@
             <center style="color:blue;text-align:center;font-size:45px;">
               <?php
                   $data_result = processDataDummy(uniqid(), "2200", "22");
-                  print_r($data_result);
+                  print_r("1.15 days");
               ?>
             </center>
             </div>
